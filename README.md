@@ -1,4 +1,4 @@
-# 👶 Parenting Marathon 🏃‍♂️📘
+# 👶 The Parenting Marathon 🏃‍♂️📘
 
 *A year-by-year guide to raising a child from Age 1 to 20.*
 
@@ -13,7 +13,8 @@ Each page focuses on:
 * Development milestones
 * Emotional needs
 * Practical parenting tips
-* Real-life insights
+* Life Skills Couching
+* Home Schooling 
 
 ---
 
@@ -61,18 +62,6 @@ Each page focuses on:
 
 ---
 
-## 🔗 Navigation Example (for each page)
-
-Add this at the bottom of every file:
-
-### Example: `age-02.md`
-
-```
-[← Age 1](age-01.md) | [Next → Age 3](age-03.md)
-```
-
----
-
 ## ✨ Vision
 
 Parenting isn’t a sprint—it’s a marathon.
@@ -102,5 +91,3 @@ Pull requests are welcome!
 This project is a living document—expect it to grow and evolve over time.
 
 ---
-
-💡 *“You don’t raise a child in a day. You raise them day by day.”*
