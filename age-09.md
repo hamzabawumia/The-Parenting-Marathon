@@ -23,4 +23,7 @@ What is happening at age 9? Brief summary of development.
 
 ---
 
+Waren Buffet Caroon show on Investment and Wealth Building
+https://www.youtube.com/playlist?list=PL1tElHf1h-MZLRho7b8TQ78zUGQv5XhOT
+
 [← Age 8](age-08.md) | [Next → Age 10](age-10.md)
