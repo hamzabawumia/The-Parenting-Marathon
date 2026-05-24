@@ -4,9 +4,8 @@
 What is happening at age 20? Brief summary of development.
 
 ## 🧠 Development Focus
-- Cognitive growth
-- Emotional changes
-- Social skills
+- Life Skills
+- Good Decision Making Skills
 
 ## ❤️ Parenting Tips
 - Tip 1
