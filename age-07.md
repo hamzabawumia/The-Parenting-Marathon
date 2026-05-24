@@ -11,6 +11,7 @@ What is happening at age 7? Brief summary of development.
 ## ❤️ Parenting Tips
 - BOOKS TO USE:
     - Children's Encyclopedia e.g. KINGFISHER CHILDREN'S A to Z Encyclopedia
+    
       This is a good time to introduce the child to start learning certain topics from the book.
       especially during vacations - just one page in a day
       and let the child tell you what they learnt.
