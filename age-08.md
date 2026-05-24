@@ -9,7 +9,11 @@ What is happening at age 8? Brief summary of development.
 - Social skills
 
 ## ❤️ Parenting Tips
-- Tip 1
+- BOOKS TO USE:
+    - First Aid in English by Angus Maciver
+      This is a good time to introduce the child to start learning certain topics from the book.
+      especially during weekends - just one page in a day followed by a short quiz.
+      
 - Tip 2
 - Tip 3
 
