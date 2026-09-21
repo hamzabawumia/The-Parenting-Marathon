@@ -18,8 +18,8 @@ What is happening at age 6? Brief summary of development.
 - Challenge 2
 
 ## 🎯 Goals for This Age
-- Goal 1
-- Goal 2
+- Goal 1: Start Rosetta Stone for a Foreign Language e.g. French
+- Goal 2: Complete Telefrancais - To be done on Weekends
 
 ---
 
